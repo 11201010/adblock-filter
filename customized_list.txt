@@ -1,9 +1,9 @@
-!facebook
+! --- facebook --- !
 ! block post hidden by extension "social fixer"
 www.facebook.com##DIV[class="sfx_filter_hidden_note"]
 ! block "SPONSORED" in right column
 www.facebook.com##DIV[class="j83agx80 qu0x051f esr5mh6w e9989ue4 r7d6kgcz beltcj47 p86d2i9g aot14ch1 kzx2olss nhd2j8a9 ihxqhq3m kvgmc6g5 oi9244e8 oygrvhab h676nmdw hzawbc8m cxgpxx05 dflh9lhu sj5x9vvc scb9dxdr gfay22hk pdl3lqly"]
 ! block "People You May Know" in profile page
 www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb hybvsw6c qbxu24ho bxzzcbxg lxuwth05 h2mp5456 goun2846 ccm00jje s44p3ltw mk2mc5f4 frvqaej8 ed0hlay0 afxsp9o4 jcgfde61 ue3kfks5 pw54ja7n uo3d90p7 l82x9zwi ni8dbmo4 stjgntxs k4urcfbm sbcfpzgs"]
-!yamol
+! --- yamol --- !
 yamol.tw##DIV[id="headernavbar"]
