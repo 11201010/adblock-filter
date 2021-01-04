@@ -1,0 +1,5 @@
+yamol.tw##DIV[id="headernavbar"]
+! block post hidden by extension "social fixer"
+www.facebook.com##DIV[class="sfx_filter_hidden_note"]
+! block sponsored sidebar
+www.facebook.com##DIV[class="j83agx80 qu0x051f esr5mh6w e9989ue4 r7d6kgcz beltcj47 p86d2i9g aot14ch1 kzx2olss nhd2j8a9 ihxqhq3m kvgmc6g5 oi9244e8 oygrvhab h676nmdw hzawbc8m cxgpxx05 dflh9lhu sj5x9vvc scb9dxdr gfay22hk pdl3lqly"]
