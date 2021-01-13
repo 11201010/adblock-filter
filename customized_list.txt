@@ -1,3 +1,96 @@
+! --- Gimy TV 剧迷 --- !
+gimy.co##A[class="white-font"]
+! --- Habitica --- !
+habitica.fandom.com##DIV[id="mixed-content-footer"][class="mcf-en"]
+! --- ETtoday健康雲 --- !
+health.ettoday.net##DIV[class="block_content line"]
+health.ettoday.net##DIV[class="block_title clearfix"]
+health.ettoday.net##DIV[class="inner"]
+health.ettoday.net##DIV[id="ettoday_channel_frame"]
+health.ettoday.net##H2[class="live_title"]
+health.ettoday.net##P:last-child
+health.ettoday.net##P:nth-last-child(2)
+! --- Myself 動漫 --- !
+myself-bbs.com##A[href="https://myself-bbs.com/portal.php?mod=topic&topicid=3"]
+! --- 華視新聞 --- !
+news.cts.com.tw##DIV[class="dm-player dm-playback-ready"]
+news.cts.com.tw##DIV[class="footer_note20200211"]
+! --- 自由時報 --- !
+news.ltn.com.tw##DIV[class="caption"]
+news.ltn.com.tw##DIV[class="related boxTitle"]
+news.ltn.com.tw##DIV[class="see_more boxTitle"]
+news.ltn.com.tw##DIV[class="todaynews boxTitle"]
+news.ltn.com.tw##DIV[id="marqueeContent"]
+news.ltn.com.tw##DIV[id="right_blake"]
+news.ltn.com.tw##P:nth-last-child(2)
+news.ltn.com.tw##P:nth-last-child(3)
+news.ltn.com.tw##P:nth-last-child(4)
+! --- TVBS --- !
+news.tvbs.com.tw##A[id="nextLinkBtn2"]
+news.tvbs.com.tw##A[id="prevLinkBtn2"]
+news.tvbs.com.tw##DIV[class="article_ad2 display_block_pc"]
+news.tvbs.com.tw##DIV[class="article_extended"]
+news.tvbs.com.tw##DIV[class="article_like"]
+news.tvbs.com.tw##DIV[class="article_live"]
+news.tvbs.com.tw##DIV[class="article_rank"]
+news.tvbs.com.tw##DIV[class="content_center_list_box"]
+news.tvbs.com.tw##DIV[class="cookie_box cor4"]
+news.tvbs.com.tw##DIV[class="extended_box"]
+news.tvbs.com.tw##DIV[class="header_banner_ad display_block_pc"]
+news.tvbs.com.tw##DIV[class="live_video_play"]
+news.tvbs.com.tw##DIV[class="newsdetail_content_next margin_b30"]
+news.tvbs.com.tw##DIV[class="sidebar_div margin_b20 "]
+news.tvbs.com.tw##DIV[class="sidebar_div margin_b20 float-top-box"]
+news.tvbs.com.tw##DIV[class="sidebar_div margin_b20"]
+news.tvbs.com.tw##IMG[class="lazyimage img"]
+! --- 新頭殼 Newtalk --- !
+newtalk.tw##DIV[class="extend_news_url"]
+newtalk.tw##DIV[class="hotline top_new"]
+newtalk.tw##DIV[class="related_news_Area"]
+newtalk.tw##DIV[class="video-container horizontal-video"]
+newtalk.tw##DIV[id="news_marquee"]
+newtalk.tw##DIV[id="right_column"][class="left-column-border"]
+newtalk.tw##IFRAME
+! --- 蘋果日報 --- !
+tw.appledaily.com##ASIDE
+tw.appledaily.com##DIV[class="cookies-container"]
+tw.appledaily.com##DIV[class="ob-widget-header"]
+tw.appledaily.com##DIV[class="text_water-blue related-section-title"]
+tw.appledaily.com##DIV[class="tw-border"]
+tw.appledaily.com##DIV[id="div-GDPR-message"]
+! --- Yahoo奇摩新聞 --- !
+tw.news.yahoo.com##DIV[class="non-sticky-container"]
+tw.news.yahoo.com##DIV[class="stream"]
+tw.news.yahoo.com##DIV[id="module-mktBanner"]
+tw.news.yahoo.com##DIV[id="module-relatedStories"]
+! --- 聯合新聞 --- !
+udn.com##DIV[class="wrapper-aside__container"]
+udn.com##SECTION[class="ec-section article-section context-box"]
+udn.com##SECTION[class="more-news article-section context-box"]
+udn.com##SECTION[class="related-news more-news context-box article-section"]
+! --- BBC News --- !
+www.bbc.com##SECTION[class="css-1mxg3wc e1e90g5r0"]
+www.bbc.com##SECTION[class="e1j2237y0 css-1bxjjj1 e1e90g5r0"]
+! --- 中時新聞 --- !
+www.chinatimes.com##ASIDE[class="column-right"]
+! --- 中央社 --- !
+www.cna.com.tw##DIV[class="SubscriptionInner mySubscriptionInner"]
+! --- CTWANT --- !
+www.ctwant.com##DIV[class="l-ad__article mb-1 mt-1"]
+www.ctwant.com##DIV[class="l-section"]
+! --- ETtoday新聞雲 --- !
+www.ettoday.net##A[class="adT01"]
+www.ettoday.net##DIV[class="ad_in_news"]
+www.ettoday.net##DIV[class="ad_readmore"]
+www.ettoday.net##DIV[class="block block_1 hot-news"]
+www.ettoday.net##DIV[class="block block_1"]
+www.ettoday.net##DIV[class="inner"]
+www.ettoday.net##DIV[class="text_ticker_1"]
+www.ettoday.net##DIV[id="etnews_live_player"]
+www.ettoday.net##DIV[id="ettoday_channel_frame"]
+www.ettoday.net##DIV[id="hot_area"][class="tab tab_1"]
+www.ettoday.net##H2[class="live_title"]
+www.ettoday.net##strong
 ! --- facebook --- !
 ! block post hidden by extension "social fixer"
 www.facebook.com##DIV[class="sfx_filter_hidden_note"]
@@ -7,6 +100,69 @@ www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb hybvsw6c qbxu24ho bxzzcb
 www.facebook.com##DIV[class="j83agx80 qu0x051f esr5mh6w e9989ue4 r7d6kgcz beltcj47 p86d2i9g aot14ch1 kzx2olss nhd2j8a9 ihxqhq3m kvgmc6g5 oi9244e8 oygrvhab h676nmdw hzawbc8m cxgpxx05 dflh9lhu sj5x9vvc scb9dxdr gfay22hk pdl3lqly"]
 ! block "Remember Password"
 www.facebook.com##DIV[class="k4urcfbm"]
+! unknown
+www.facebook.com##A[class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 a8c37x1j p7hjln8o kvgmc6g5 cxmmr5t8 oygrvh...yog2 f1sip0of lzcic4wl l9j0dhe7 abiwlrkh gofk2cf1 ksdfmwjs gmql0nx0 ihxqhq3m l94mrbxd aenfhxwr tm8avpzi bj9fd4vl k4urcfbm"]
+www.facebook.com##A[class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 a8c37x1j p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl l9j0dhe7 abiwlrkh p8dawk7l"]
+www.facebook.com##A[href="/groups/"]
+www.facebook.com##A[href="/watch/"]
+www.facebook.com##DIV[class="_4-u2 _4-u8"]
+www.facebook.com##DIV[class="bp9cbjyn j83agx80"]
+www.facebook.com##DIV[class="c8r2yrt7 o7xrwllt ni8dbmo4 stjgntxs dy7m38rt jktsbyx5 l9j0dhe7 k4urcfbm"]
+www.facebook.com##DIV[class="j83agx80 cbu4d94t taijpn5t n1l5q3vz oi9244e8 oygrvhab fop5sh7t"]
+www.facebook.com##DIV[class="q5bimw55 rpm2j7zs k7i0oixp gvuykj2m j83agx80 cbu4d94t ni8dbmo4 eg9m0zos pmk7jnqg du4w35lb ofs802cu pohlnb88 dkue75c7 mb9wzai9 rj1gh0hx buofh1pr g5gj957u tgvbjcpo l56l04vs r57mb794 kh7kg01d c3g1iek1 k4xni2cv discj3wi hv4rvrfc ihqw7lf3 dati1w0a lz6nqys8 n7fi1qx3 j9ispegn kr520xx4"]
+www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb d2edcug0 hpfvmrgz hwwcs9y8 buofh1pr g5gj957u aov4n071 oi9244e8 bi6gxh9e h676nmdw aghb5jc5"]
+www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t buofh1pr tgvbjcpo muag1w35 enqfppq2"]
+www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t pfnyh3mw e5nlhep0 aodizinl"]
+www.facebook.com##DIV[class="scb9dxdr sj5x9vvc dflh9lhu cxgpxx05"]
+www.facebook.com##DIV[class="sfx_filter_hidden_note"]
+www.facebook.com##DIV[class="tr9rh885 l9j0dhe7"]
+www.facebook.com##DIV[data-pagelet="MainFeed"]
+www.facebook.com##DIV[id="u_ps_0_0_c"]
+! --- 民視新聞 --- !
+www.ftvnews.com.tw##DIV[class="col-side"]
+www.ftvnews.com.tw##DIV[class="container mt-20"]
+www.ftvnews.com.tw##DIV[class="fluid-width-video-wrapper"]
+www.ftvnews.com.tw##DIV[class="news-list"]
+www.ftvnews.com.tw##DIV[id="View_NewsExtend"]
+www.ftvnews.com.tw##IFRAME[name="fitvid0"]
+! --- 鏡週刊  --- !
+www.mirrormedia.mg##ASIDE
+! --- msn --- !
+www.msn.com##DIV[class="moreFromMSN hllist Disabled"]
+www.msn.com##DIV[class="normalsection show"]
+www.msn.com##DIV[id="filmstripouter"]
+! --- 求索网 --- !
+www.qiusuoo.com##DIV[id="wpcom-comments-3"][class="widget widget_comments"]
+! --- 中央廣播電台 --- !
+www.rti.org.tw##DIV[class="audio-player-bar"]
+! --- 三立 --- !
+www.setn.com##DIV[class="alert-message alert-message-warning hidden-print"]
+www.setn.com##DIV[class="col-lg-3 col-md-4 hidden-sm hidden-xs hidden-print contRight"]
+www.setn.com##DIV[class="col-md-12 col-sm-12"]
+www.setn.com##DIV[class="col-sm-12 news-all-area"]
+www.setn.com##DIV[class="col-sm-12"]
+www.setn.com##DIV[class="col-sm-6"]
+www.setn.com##DIV[class="hidden-print bottom-buffer"]
+www.setn.com##DIV[class="privacy-area animated fadeInDown"]
+www.setn.com##DIV[class="rides-cs"]
+www.setn.com##DIV[id="involve"][class="extend news-list"]
+! --- 風傳媒 --- !
+www.storm.mg##DIV[class="article_ads dfp1 storm_magic_placeholder"]
+www.storm.mg##DIV[class="article_ads dfp2 storm_magic_placeholder"]
+www.storm.mg##DIV[class="article_ads storm_magic_placeholder"]
+www.storm.mg##DIV[class="article_bottom_ads_cell"]
+www.storm.mg##DIV[class="article_bottom_ads_table"]
+www.storm.mg##DIV[class="category_card card_thumbs_left"]
+www.storm.mg##DIV[id="category_content"]
+www.storm.mg##DIV[id="dablewidget_KoEeAWoB"]
+www.storm.mg##DIV[id="news_list_wrapper"]
+www.storm.mg##DIV[id="top_banner_wrapper"]
+! --- upmedia --- !
+www.upmedia.mg##DIV[class="icon-bar"]
 ! --- yamol --- !
 yamol.tw##DIV[id="headernavbar"]
 yamol.tw##DIV[id="twstudybanner"]
+! --- youtube --- !
+www.youtube.com##[href="/feed/trending"]
+www.youtube.com##DIV[id="secondary"]
+www.youtube.com##IMG[id="img"][class="style-scope yt-img-shadow"]
