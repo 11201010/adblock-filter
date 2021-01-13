@@ -105,7 +105,7 @@ www.facebook.com##DIV[class="ad2k81qe f9o22wc5 cl7tx4kc cwj9ozl2 ue3kfks5 pw54ja
 www.facebook.com##DIV[class="j83agx80 qu0x051f esr5mh6w e9989ue4 r7d6kgcz beltcj47 p86d2i9g aot14ch1 kzx2olss nhd2j8a9 ihxqhq3m kvgmc6g5 oi9244e8 oygrvhab h676nmdw hzawbc8m cxgpxx05 dflh9lhu sj5x9vvc scb9dxdr gfay22hk pdl3lqly"]
 ! block "Remember Password"
 www.facebook.com##DIV[class="k4urcfbm"]
-! block "Up Next" autoplay content (autoplay is closed unless click "Hide" to show "Up Next")
+! block "Up Next" autoplay content (If setting is done, then autoplay is closed unless click "Hide" to show "Up Next")
 www.facebook.com##DIV[class="rq0escxv d2edcug0 k4urcfbm"]
 ! block "Up Next" pop up video
 www.facebook.com##DIV[class="tr9rh885 l9j0dhe7"]
