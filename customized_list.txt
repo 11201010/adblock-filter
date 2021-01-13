@@ -100,11 +100,13 @@ www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb hybvsw6c qbxu24ho bxzzcb
 www.facebook.com##DIV[class="j83agx80 qu0x051f esr5mh6w e9989ue4 r7d6kgcz beltcj47 p86d2i9g aot14ch1 kzx2olss nhd2j8a9 ihxqhq3m kvgmc6g5 oi9244e8 oygrvhab h676nmdw hzawbc8m cxgpxx05 dflh9lhu sj5x9vvc scb9dxdr gfay22hk pdl3lqly"]
 ! block "Remember Password"
 www.facebook.com##DIV[class="k4urcfbm"]
+! block top sidebar button
+www.facebook.com##A[href="/groups/"]
+www.facebook.com##A[href="/watch/"]
+www.facebook.com##DIV[data-pagelet="MainFeed"]
 ! unknown
 www.facebook.com##A[class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 a8c37x1j p7hjln8o kvgmc6g5 cxmmr5t8 oygrvh...yog2 f1sip0of lzcic4wl l9j0dhe7 abiwlrkh gofk2cf1 ksdfmwjs gmql0nx0 ihxqhq3m l94mrbxd aenfhxwr tm8avpzi bj9fd4vl k4urcfbm"]
 www.facebook.com##A[class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 a8c37x1j p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl l9j0dhe7 abiwlrkh p8dawk7l"]
-www.facebook.com##A[href="/groups/"]
-www.facebook.com##A[href="/watch/"]
 www.facebook.com##DIV[class="_4-u2 _4-u8"]
 www.facebook.com##DIV[class="bp9cbjyn j83agx80"]
 www.facebook.com##DIV[class="c8r2yrt7 o7xrwllt ni8dbmo4 stjgntxs dy7m38rt jktsbyx5 l9j0dhe7 k4urcfbm"]
@@ -114,9 +116,7 @@ www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb d2edcug0 hpfvmrgz hwwcs9
 www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t buofh1pr tgvbjcpo muag1w35 enqfppq2"]
 www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t pfnyh3mw e5nlhep0 aodizinl"]
 www.facebook.com##DIV[class="scb9dxdr sj5x9vvc dflh9lhu cxgpxx05"]
-www.facebook.com##DIV[class="sfx_filter_hidden_note"]
 www.facebook.com##DIV[class="tr9rh885 l9j0dhe7"]
-www.facebook.com##DIV[data-pagelet="MainFeed"]
 www.facebook.com##DIV[id="u_ps_0_0_c"]
 ! --- 民視新聞 --- !
 www.ftvnews.com.tw##DIV[class="col-side"]
